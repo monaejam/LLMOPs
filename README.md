@@ -1,2 +1,2 @@
-# MLOPs
+# LLMOPs
 for AI Class
